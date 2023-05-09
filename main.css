@@ -1,0 +1,264 @@
+.basliq{
+    width: 1152px;
+    height: 50px;
+    background-color: #F5F5F6;
+}
+.bank{
+    background-image: url('./Asset\ 1@3x\ 1\ \(1\).png');
+    width: 89px;
+    height: 23px;
+    top: 20px;
+    left: 100px;
+    position: absolute;
+}
+.bank1{
+    width: 44px;
+    height: 19px;
+    top: 17px;
+    left: 253px;
+    position: absolute;
+    font-size: 11px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'Roboto';
+    color: #000000;
+}
+.biznes{
+    width: 50px;
+    height: 19px;
+    top: 17px;
+    left: 310px;
+    position: absolute;
+    font-size: 11px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'Roboto';
+    color: #959BA4;
+}
+.invest{
+    width: 94px;
+    height: 19px;
+    top: 17px;
+    left: 381px;
+    position: absolute;
+    font-size: 11px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'Roboto';
+    color: #959BA4;
+}
+.strax{
+    width: 94px;
+    height: 19px;
+    top: 17px;
+    left: 486px;
+    position: absolute;
+    font-size: 11px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'Roboto';
+    color: #959BA4;
+}
+.mobayl{
+    width: 94px;
+    height: 19px;
+    top: 17px;
+    left: 596px;
+    position: absolute;
+    font-size: 11px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'Roboto';
+    color: #959BA4;
+}
+.putes{
+    width: 94px;
+    height: 19px;
+    top: 17px;
+    left: 671px;
+    position: absolute;
+    font-size: 11px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'Roboto';
+    color: #959BA4;
+}
+.razvle{
+    width: 94px;
+    height: 19px;
+    top: 17px;
+    left: 782px;
+    position: absolute;
+    font-size: 11px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'Roboto';
+    color: #959BA4;
+}
+.voyti{
+    width: 58px;
+    height: 33px;
+    top: 13px;
+    left: 992px;
+    position: absolute;
+    font-size: 11px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: 'Roboto';
+    color: #000000;
+    background-color: white;
+    border: 1px solid white;
+}
+.h2{
+    width: 587px;
+    height: 32px;
+    top: 106px;
+    left: 253px;
+    position: absolute;
+    font-size: 36px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: 'Roboto';
+    color: #000000;
+}
+.h41{
+    width: 120px;
+    height: 28px;
+    top: 200px;
+    left: 253px;
+    position: absolute;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto';
+    color: #959BA4;
+}
+.h42{
+    width: 120px;
+    height: 28px;
+    top: 200px;
+    left: 635px;
+    position: absolute;
+    font-size: 12px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Roboto';
+    color: #959BA4;
+}
+/* .duymeb{
+    width: 270px;
+    height: 30px;
+    left: 253px;
+    top: 240px;
+    position: ;
+    border: 1px solid #E5E5E5;
+    border-radius: 3px;
+    background-color: #E5E5E5;
+    box-sizing: border-box;
+} */
+.br{
+    position: absolute;
+    width: 65px;
+    height: 30px;
+    top: 240px;
+    left: 255px;
+    background-color: #833AE0;
+    border-radius: 3px 0px 0px 3px;
+    border: 1px solid #833AE0;
+    color: #C6C6C6;
+}
+.bu{
+    position: absolute;
+    width: 65px;
+    height: 30px;
+    top: 240px;
+    left: 319px;
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+}
+.be{
+    position: absolute;
+    width: 63px;
+    height: 30px;
+    top: 240px;
+    left: 382px;
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+}
+.bg{
+    position: absolute;
+    width: 63px;
+    height: 30px;
+    top: 240px;
+    left: 444px;
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+    border-radius: 0px 3px 3px 0px;
+}
+.i1{
+    position: absolute;
+    width: 259px;
+    height: 102px;
+    top: 300px;
+    left: 253px;
+    border-radius: 3px;
+    border: 1px solid #E5E5E5;;
+    font-size: 36px;
+    font-weight: 700;
+    padding-bottom: 53px;
+    padding-left: 14px;
+    padding-right: 78px;
+}
+.br1{
+    position: absolute;
+    width: 65px;
+    height: 30px;
+    top: 240px;
+    left: 636px;
+    border-radius: 3px 0px 0px 3px;
+    border: 1px solid #C6C6C6;
+    color: #C6C6C6;
+}
+.bu1{
+    position: absolute;
+    width: 65px;
+    height: 30px;
+    top: 240px;
+    left: 700px;
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+    background-color: #833AE0;
+}
+.be1{
+    position: absolute;
+    width: 63px;
+    height: 30px;
+    top: 240px;
+    left: 765px;
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+}
+.bg1{
+    position: absolute;
+    width: 63px;
+    height: 30px;
+    top: 240px;
+    left: 827px;
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+    border-radius: 0px 3px 3px 0px;
+}
+.i12{
+    position: absolute;
+    width: 259px;
+    height: 102px;
+    top: 300px;
+    left: 635px;
+    border-radius: 3px;
+    border: 1px solid #E5E5E5;
+    font-size: 36px;
+    font-weight: 700;
+    padding-bottom: 53px;
+    padding-left: 14px;
+    padding-right: 78px;
+}
