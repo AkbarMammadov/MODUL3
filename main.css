@@ -170,7 +170,7 @@ body {
     
     color: #959BA4;
 }
- .duymeb, .duymeb1{
+.duymeb, .duymeb1{
     height: 30px;
     border: 1px solid #E5E5E5;
     border-radius: 3px;
@@ -181,9 +181,8 @@ body {
     height: 30px;
     top: 240px;
     left: 255px;
-    background-color: #833AE0;
+    border: 1px solid #C6C6C6;
     border-radius: 3px 0px 0px 3px;
-    border: 1px solid #833AE0;
     color: #C6C6C6;
 }
 .bu{
@@ -242,7 +241,6 @@ body {
     
     color: #C6C6C6;
     border: 1px solid #C6C6C6;
-    background-color: #833AE0;
 }
 .be1{
     
@@ -258,6 +256,10 @@ body {
     color: #C6C6C6;
     border: 1px solid #C6C6C6;
     border-radius: 0px 3px 3px 0px;
+}
+.b-active {
+    background-color: #833AE0;
+    border: 1px solid #833AE0;
 }
 .i12{
     padding-top: 13px;
